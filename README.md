@@ -4,5 +4,4 @@ Python sniffer is raw socket based sniffer, which parses different Headers from 
 
 
 Usage:
-chmod +x Sniffer.py
-python Sniffer.py
+chmod +x Sniffer.py && python Sniffer.py
